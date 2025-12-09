@@ -1,4 +1,4 @@
-# AI_Bots – COMP‑6321 Machine Learning
+# PixelParlance – COMP‑6321 Machine Learning
 
 **Team members**
 Mohammed Shurrab (40323793)    Patrick Liam O’Connor (40310129) 
@@ -11,7 +11,7 @@ Shariq Anwar (40321507)        Dan Munteanu (40351135)
 ### PixelParlance Project: Mitigating Hallucinations in Automatic Image Captioning
 
 A grounded image captioning system built on a modern Vision Transformer (ViT) encoder – Transformer decoder architecture. This repository includes all the required dependencies to run the project. It details the Dataset download and generation of the Dataloaders along with the proposed model and the baseline. 
-It contains two files, Final_Project which includes our model and experiments setup.. and Baseline which includes the CNN, attention-based LSTM benchmark along with experimental setup and evaluation.
+It contains two files, Final_Project.ipynb which includes our model and experiments setup.. and Baseline.ipynb which includes the CNN, attention-based LSTM benchmark along with experimental setup and evaluation.
 ---
 
 ## How to Set Up
