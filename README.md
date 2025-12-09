@@ -1,4 +1,4 @@
-# AI_Bots – COMP‑6321 Applied ML
+# AI_Bots – COMP‑6321 Machine Learning
 
 **Team members**
 Mohammed Shurrab (40323793)    Patrick Liam O’Connor (40310129) 
