@@ -10,7 +10,7 @@ Shariq Anwar (40321507)        Dan Munteanu (40351135)
 
 ### PixelParlance Project: Mitigating Hallucinations in Automatic Image Captioning
 
-a grounded image captioning system built on a modern Vision Transformer (ViT) encoder – Transformer decoder architecture. This repository includes all the required dependencies to run the project. It details the Dataset download and generation of the Dataloaders along with the proposed model and the baseline. 
+A grounded image captioning system built on a modern Vision Transformer (ViT) encoder – Transformer decoder architecture. This repository includes all the required dependencies to run the project. It details the Dataset download and generation of the Dataloaders along with the proposed model and the baseline. 
 It contains two files, Final_Project which includes our model and experiments setup.. and Baseline which includes the CNN, attention-based LSTM benchmark along with experimental setup and evaluation.
 ---
 
